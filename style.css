@@ -1,0 +1,47 @@
+body{
+    background-color: #000000;
+}
+h1{
+    text-align: center;
+    color: #FDEE30;
+}
+
+.reggister {
+    position: absolute;
+    top: 400px;
+    left: 0%
+    
+
+}
+.ffgg{
+    font-size: 50px;
+}
+li{
+    position: absolute;
+    left: 500px;
+    padding-top: 20px;
+}
+input{
+    font-size: 50px;
+    
+}
+button{
+   position: absolute;
+   top: 370px;
+   left: 500px;
+   font-size: 75px;
+   background-color: #FDEE30;
+   width: 500px;
+   height: 150px;
+   border-radius: 20px;
+   
+    
+}
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: bold;
+    color: red;
+}
